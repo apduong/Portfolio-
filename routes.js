@@ -1,4 +1,3 @@
-routes.js
 //loading express 
 const express = require("express");
 const userModel = require("./models");

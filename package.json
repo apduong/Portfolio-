@@ -1,0 +1,24 @@
+{
+  "name": "vue-webapp-",
+  "version": "1.0.0",
+  "description": "This web application is just being made to showcase Vue.js/MongoDB/Express development. Previously there were another Web application however I wanted to showcase as the other was in a private repository, and wanted to show a public repository.",
+  "main": "models.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apduong/Vue-WebApp-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apduong/Vue-WebApp-/issues"
+  },
+  "homepage": "https://github.com/apduong/Vue-WebApp-#readme",
+  "dependencies": {
+    "node": "^20.5.0"
+  }
+}
